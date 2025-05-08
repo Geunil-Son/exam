@@ -1,0 +1,10 @@
+#page {width: 99vw;height: 99vh;margin: 0 auto;}
+nav {width: 100%; margin: 0 auto;}
+.brand {height: 1rem; margin-left: 3rem; margin-top: 1rem;}
+.menu li {float: right; width: auto; }
+.menu li a {height: 1rem; padding: 5px;
+    display: flex; justify-content: center; align-items: center;}
+.content {display: flex;justify-content: center;}
+.content li {margin: 0 10px;}
+
+
